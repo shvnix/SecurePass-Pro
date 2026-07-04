@@ -71,7 +71,7 @@ mvn -v
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/SecurePass-Pro.git
+git clone https://github.com/shvnix/SecurePass-Pro.git
 ```
 
 ### 2. Open the project
@@ -119,21 +119,6 @@ mvn exec:java
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after completing the UI.
-
-Example:
-
-```
-assets/
-├── home.png
-├── generated-password.png
-└── dark-theme.png
-```
-
----
-
 ## 🔮 Future Improvements
 
 * Password strength meter
@@ -154,9 +139,9 @@ The objective of SecurePass Pro is to generate secure and customizable passwords
 
 ## 👨‍💻 Author
 
-**Shivam**
+**Shivansh Panwar**
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/shvnix
 
 ---
 
